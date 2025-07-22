@@ -1,0 +1,6 @@
+# ngrok.yml (create under ~/.ngrok2/ngrok.yml or C:\Users\<you>\.ngrok2\ngrok.yml)
+authtoken: YOUR_AUTHTOKEN
+tunnels:
+  web:
+    proto: http
+    addr: 5173
